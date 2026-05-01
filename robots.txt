@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://onradar-dogs.github.io/siberian-husky-dog-guide/sitemap.xml
