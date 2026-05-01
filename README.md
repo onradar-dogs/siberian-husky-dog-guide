@@ -1,2 +1,5 @@
-# siberian-husky-dog-guide
-Dog breed guide for Siberian Husky — feeding, health, training, care tips
+# Siberian Husky Dog Guide
+
+Complete Siberian Husky care guide.
+
+Visit: https://onradar-dogs.github.io/siberian-husky-dog-guide/
